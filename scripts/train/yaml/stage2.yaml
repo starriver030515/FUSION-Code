@@ -7,8 +7,6 @@ datasets:
     sampling_strategy: "all"
   - json_path: ../../playground/train/jsons/ALLaVA_QA-700k.json
     sampling_strategy: "all"
-  - json_path: ../../playground/train/jsons/ArxivQA-100k.json
-    sampling_strategy: "all"
   - json_path: ../../playground/train/jsons/Chart2Text-25k.json
     sampling_strategy: "all"
   - json_path: ../../playground/train/jsons/ChartQA-28k.json
